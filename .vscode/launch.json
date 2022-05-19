@@ -9,7 +9,8 @@
             "stopOnEntry": false,
             "pathMappings": {
                 "/var/www/html": "${workspaceFolder}/app"
-            }
+            },
+            "hostname": "0.0.0.0"
         }
     ]
 }
